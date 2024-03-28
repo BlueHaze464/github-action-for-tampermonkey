@@ -8,7 +8,7 @@
 ## 如何使用? how to use?
 
 
-### 1 将油猴数据库打包成zip或者tar格式. | pack your tapermonkey database to .zip or .tar  
+### 1 将油猴数据库打包成zip或者tar格式. | pack your tampermonkey database to .zip or .tar  
 数据库的路径如下 :
 ```text
 # Linux:  "/home/<USERNAME>/.config/<BROWSER>/Default/Local Extension Settings/<EXTENSION_ID>"
