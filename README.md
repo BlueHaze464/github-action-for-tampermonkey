@@ -1,14 +1,14 @@
-# restore your tapermonkey scripts by github action
+# restore your tampermonkey scripts by github action
 [中文文档](README-CN.md)
 
-this repo can restore tapermonkey scripts from its database(chrome leveldb).  
+this repo can restore tampermonkey scripts from its database(chrome leveldb).  
 just fork this repo & upload its database to the repo ,and run github action,
-then the restored tapermonkey scripts will placed in github action artifact, and you can download it
+then the restored tampermonkey scripts will placed in github action artifact, and you can download it
 
 ## how to use?
 
 
-### 1 pack your tapermonkey database to .zip or .tar  
+### 1 pack your tampermonkey database to .zip or .tar  
 database path :
 ```text
 # Linux:  "/home/<USERNAME>/.config/<BROWSER>/Default/Local Extension Settings/<EXTENSION_ID>"
